@@ -1,2 +1,3 @@
 JanekTest
 druga linia
+linia nr 3
